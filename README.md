@@ -1,6 +1,10 @@
 Simple Anime Recommendation Project
 
-This project is a simple anime recommendation system that uses content-based filtering.  It makes use of the Anime recommendation database from Kaggle to gather data about different anime and uses this data to recommend anime to the user.
+This project is a simple anime recommendation system that uses content-based filtering.  
+
+It makes use of the Anime recommendation database from Kaggle to gather data about different anime and uses this data to recommend anime to the user.
+
+I have downloaded anime and user ratings from https://www.kaggle.com/CooperUnion/anime-recommendations-database .
 
 Requirements:
 
