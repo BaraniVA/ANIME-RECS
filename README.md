@@ -51,3 +51,8 @@ After entering the index of the anime you want recommendations for, the system w
 Contributing:
 
 If you have any suggestions or improvements for this project, feel free to submit a pull request.
+
+Credits
+
+This program was created by BaraniVA. If you have any questions or suggestions, please contact me at baranianandakumar2003@gmail.com.
+
